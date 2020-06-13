@@ -1,3 +1,3 @@
 # Validação
 
-## Incluir os dados de validação
+## Incluir os dados, gráficos de validação
