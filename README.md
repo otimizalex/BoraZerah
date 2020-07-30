@@ -16,3 +16,5 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
 ## Links de materias, pesquisa e notícias utilizadas
 
   -
+
+Não reproduza ou compartilhe esse material.
