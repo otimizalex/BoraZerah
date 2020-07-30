@@ -24,8 +24,25 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [My Game Collection (Track, Organize & Discover)](https://play.google.com/store/apps/details?id=com.tuyware.mygamecollection&hl=en): Publicado na Play Store por Tuyware.
   - [My Games: Colection & Tracker](https://apps.apple.com/br/app/my-games-collection-tracker/id1497005248): Publicado na App Store por Vlad Khodiachiy.
 
+## Stack Tecnológico
+
+  - [Xcode](https://developer.apple.com/xcode/)
+  - [Swift Language](https://developer.apple.com/swift/)
+  - [TestFlight](https://apps.apple.com/br/app/testflight/id899247664)
+  - [GitHub](https://github.com/)
+  - [Trello](https://trello.com/)
+  - [Figma](https://www.figma.com/)
+  - [Gimp](https://www.gimp.org/)
+  - [App Icon Generator](https://appicon.co/)
+  - [Color Hunt](https://colorhunt.co/)
+  
 ## Links de materias, pesquisa e notícias utilizadas
 
-  -
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 
 Não reproduza ou compartilhe esse material.
