@@ -38,14 +38,5 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Gimp](https://www.gimp.org/)
   - [App Icon Generator](https://appicon.co/)
   - [Color Hunt](https://colorhunt.co/)
-  
-## Links de materias, pesquisa e notícias utilizadas
-
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
 
 Não reproduza ou compartilhe esse material.
