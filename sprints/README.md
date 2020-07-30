@@ -2,7 +2,7 @@
 
 ## Sprint 01
 
-Commits:
+Setting up Views and Application Flow:
   - Initial commit 
   - Removing comment 
   - Adjustments to the dashboard layout and class model refactoring 
@@ -10,7 +10,8 @@ Commits:
 
 ## Sprint 02
 
-Commits:
+Application Flow:
+
   - Sending array with games through view controllers (from dashboard to my collection) 
   - Opening PlayingControllerView with Game information from Dashboard 
   - Implementation of Segues from Dashboard, My Collection and Playing to Game Details screen 
@@ -18,7 +19,8 @@ Commits:
 
 ## Sprint 03
 
-Commits:
+Visual Adjustments and Game Screen Development:
+
   - Adding more layout items and informations to game details screen 
   - Adding game status functions and playing time functions to game screen 
   - Adding session feature to the game details screen 
@@ -31,94 +33,41 @@ Commits:
 
 ## Sprint 04
 
-Commits:
-  - Adding some form fields (title, launch date, purchase date and expected time) to the add games screen 16f9992
-  - Adding date fields and time field to add game screen already receiving values from game to the same screen to edit 760b0c8
-  - Adding edit game feature and a button in the my collection screen to add game e54436a
-  - Adding options screen to add game form cf484ee
-  - Corrections in the form fields platform and genre (add game screen) when receive empty array to show placeholder correctly creation of a tableview with a list of options to this fields (platform and genre) in another view controller 2384700
-  - Adding feature to update platforms and genres in the add game screen 9344f6e
-   -Adding feature to include image from camera to game in add game screen ca81733
-  - Adding improvements to add game screen adding image cover default polishing some layout issues (playing and add game screens) 04876dd
-  - Adding keyboard manager f290a95
+Add/Edit Game Screen Development:
+
+  - Adding some form fields (title, launch date, purchase date and expected time) to the add games screen 
+  - Adding date fields and time field to add game screen already receiving values from game to the same screen to edit 
+  - Adding edit game feature and a button in the my collection screen to add game 
+  - Adding options screen to add game form 
+  - Corrections in the form fields platform and genre (add game screen) when receive empty array to show placeholder correctly creation of a tableview with a list of options to this fields (platform and genre) in another view controller 
+  - Adding feature to update platforms and genres in the add game screen 
+   -Adding feature to include image from camera to game in add game screen 
+  - Adding improvements to add game screen adding image cover default polishing some layout issues (playing and add game screens) 
+  - Adding keyboard manager 
 
 ## Sprint 05
 
-Commits:
-  - asdasdsa
+Information Flow and Corrections:
+
+  - Passing informations through game detail and add game screens 
+  - Adding date to CoreData to sort items in my collection sorting playing, finished and dropped games by last session layout colours corrections (navbar) adding notification of session in course feature 
+  - Corrections in assets (app icon set) 
 
 ## Sprint 06
 
-Commits:
-  - asdasdas
+Corrections:
+
+  - Listing games in every category properly 
+  - Refreshing My Collection properly after adding a new game through the button "+" at the top of the My Collection screen 
+  - Some layout warnings
+  - Fixing colours in AddGameOptionViewController and fixing warnings 
+  - Fixing order of playing/finished/dropped games to show at the end the games that doesn't have sessions 
 
 ## Sprint 07
 
-Commits:
-  - asdasdas
+Finishing to Beta test:
 
-## Sprint 08
+  - Empty state for dashboard and playing view controllers 
+  - Adding searchbar to my collection/finished/dropped view controller 
 
-Commits:
-  - asdasdas
-
-## Sprint 09
-
-Commits:
-  - asdasdas
-
-## Sprint 10
-
-Commits:
-  - asdasdas
-
-## Sprint 11
-
-Commits:
-  - asdasdasd
-
-## Sprint 12
-
-Commits:
-  - asdaasdas
-
-## Sprint 13
-
-Commits:
-  - asdasdas
-
-## Sprint 14
-
-Commits:
-  - 
-
-## Sprint 15
-
-Commits:
-  - 
-
-## Sprint 16
-
-Commits:
-  - 
-
-## Sprint 17
-
-Commits:
-  - 
-
-## Sprint 18
-
-Commits:
-  - 
-
-## Sprint 19
-
-Commits:
-  - 
-
-## Sprint 20
-
-Commits:
-  - 
 
