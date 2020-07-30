@@ -7,6 +7,8 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
 ## Artefatos do Projeto
 
   - [Model Canvas](modelcanvas)
+  - [Personas](personas)
+  - [Jornadas vs. Funcionalidades](journeysfeatures)
   - [Validação da ideia](discovery)
   - [Benchmark](benchmark) * pendente
   - [Wireframes](wireframes)
