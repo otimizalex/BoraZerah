@@ -8,8 +8,10 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
 
   - [Model Canvas](modelcanvas)
   - [Validação da ideia](discovery)
+  - [Benchmark](benchmark) * pendente
   - [Wireframes](wireframes)
-  - [Esboços prévios das telas](previouslayout)
+  - [Sprints](sprints) * pendente
+  - [Protótipos das telas](interfaceprototypes)
   - [Arquitetura](architecture) * pendente
   - [Telas do aplicativo](screens)
   - [Validação da solução](validations) * pendente
