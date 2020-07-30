@@ -2,9 +2,7 @@
 
 # Bora Zerah
 
-Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da biblioteca de 
-jogos eletrônicos dos seus usuários e, consequentemente, um melhor aproveitamento desses
-games através de listas categorizadas de visualização agradável e fáceis de manusear.
+Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da biblioteca de jogos eletrônicos dos seus usuários e, consequentemente, um melhor aproveitamento desses games através de listas categorizadas de visualização agradável e fáceis de manusear.
 
 ## Aterfatos do Projeto
 
