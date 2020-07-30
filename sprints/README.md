@@ -65,7 +65,7 @@ Corrections:
 
 ## Sprint 07
 
-Finishing to Beta test:
+Preparing to Build:
 
   - Empty state for dashboard and playing view controllers 
   - Adding searchbar to my collection/finished/dropped view controller 
