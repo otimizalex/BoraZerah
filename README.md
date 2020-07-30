@@ -10,7 +10,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Personas](personas)
   - [Jornadas vs. Funcionalidades](journeysfeatures)
   - [Validação da ideia](discovery)
-  - [Benchmark](benchmark) * pendente
+  - [Benchmark](benchmark)
   - [Wireframes](wireframes)
   - [Sprints](sprints) * pendente/remover
   - [Protótipos das telas](interfaceprototypes)
