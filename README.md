@@ -6,12 +6,13 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
 
 ## Artefatos do Projeto
 
-  - [Arquitetura](architecture) * pendente
-  - [Validação da ideia](discovery)
   - [Model Canvas](modelcanvas)
+  - [Validação da ideia](discovery)
+  - [Wireframes](wireframes)
+  - [Esboços prévios das telas](previouslayout)
+  - [Arquitetura](architecture) * pendente
   - [Telas do aplicativo](screens)
   - [Validação da solução](validations) * pendente
-  - [Wireframes](wireframes)
 
 ## Soluções encontradas no mercado
 
