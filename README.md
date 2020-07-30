@@ -12,9 +12,9 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Validação da ideia](discovery)
   - [Benchmark](benchmark) * pendente
   - [Wireframes](wireframes)
-  - [Sprints](sprints) * pendente
+  - [Sprints](sprints) * pendente/remover
   - [Protótipos das telas](interfaceprototypes)
-  - [Arquitetura](architecture) * pendente
+  - [Arquitetura](architecture) * pendente/remover
   - [Telas do aplicativo](screens)
   - [Validação da solução](validations) * pendente
 
