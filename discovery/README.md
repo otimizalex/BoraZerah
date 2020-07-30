@@ -1,6 +1,6 @@
 # Discovery
 
-## FrequÊncias de respostas obtidas durante a etapa do questionário para validação da ideia:
+## Frequências de respostas obtidas durante a etapa do questionário para validação da ideia:
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/discovery_img01.png)
 ![image](http://www.futgamers.com.br/nimdog/tcc/discovery_img02.png)
