@@ -1,0 +1,2 @@
+# Esboços prévios das telas do aplicativo
+
