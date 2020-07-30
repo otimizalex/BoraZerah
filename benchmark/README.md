@@ -2,7 +2,7 @@
 
 ## Tabela comparativa
 
-![image](http://www.futgamers.com.br/nimdog/tcc/benchmarkig.png)
+![image](http://www.futgamers.com.br/nimdog/tcc/benchmarking.png)
 
 ## Steam
 
