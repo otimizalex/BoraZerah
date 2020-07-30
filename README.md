@@ -2,10 +2,19 @@
 
 # Bora Zerah
 
-Texto
+Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da biblioteca de 
+jogos eletrônicos dos seus usuários e, consequentemente, um melhor aproveitamento desses
+games através de listas categorizadas de visualização agradável e fáceis de manusear.
 
-## Subtítulo
+## Aterfatos do Projeto
 
-  - Google: [link](www.google.com)
-  - Yahoo!: [iaru](www.yahoo.com)
+  - [Arquitetura](architecture)
+  - [Validação da ideia](discovery)
+  - [Model Canvas](modelcanvas)
+  - [Telas do aplicativo](screens)
+  - [Validação da solução](validations)
   - [Wireframes](wireframes)
+  
+## Links de materias, pesquisa e notícias utilizadas
+
+  -
