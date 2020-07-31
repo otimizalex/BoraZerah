@@ -15,7 +15,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Wireframes](wireframes)
   - [Sprints](sprints)
   - [Protótipos das telas](interfaceprototypes)
-  - [Arquitetura](architecture) * pendente/remover
+  - [Arquitetura](architecture) * pendente
   - [Telas do aplicativo](screens)
   - [Validação da solução](validations)
 
