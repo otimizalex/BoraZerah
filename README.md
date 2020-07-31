@@ -17,7 +17,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Protótipos das telas](interfaceprototypes)
   - [Arquitetura](architecture) * pendente/remover
   - [Telas do aplicativo](screens)
-  - [Validação da solução](validations) * pendente
+  - [Validação da solução](validations)
 
 ## Soluções encontradas no mercado
 
