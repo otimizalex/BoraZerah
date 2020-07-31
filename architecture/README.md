@@ -10,4 +10,4 @@
 
 ## MVC aplicada no projeto (Xcode)
 
-![image](http://www.futgamers.com.br/nimdog/tcc/mvc_xcode.png)
+![image](http://www.futgamers.com.br/nimdog/tcc/mvc.png)
