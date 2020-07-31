@@ -25,7 +25,7 @@ Visual Adjustments and Game Screen Development:
   - Adding game status functions and playing time functions to game screen 
   - Adding session feature to the game details screen 
   - Updating status to a new cell updating playing time to show hours and minutes 
-  - updating screen title with a game status 
+  - Updating screen title with a game status 
   - Adding rating system to game details' screen 
   - Adding action to decrease and increase time and design improvements 
   - Adding last session information to game detail screen adding corner radius to other views on game detail screen adding launch and purchase dates to game detail screen 
