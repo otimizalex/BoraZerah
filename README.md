@@ -12,7 +12,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Jornadas vs. Funcionalidades](journeysfeatures)
   - [Validação da ideia](discovery)
   - [Benchmark](benchmark)
-  - [Wireframes](wireframes)
+  - [Wireframes](wireframe)
   - [Sprints](sprints)
   - [Protótipos das telas](interfaceprototypes)
   - [Arquitetura](architecture)
