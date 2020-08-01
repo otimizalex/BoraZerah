@@ -36,6 +36,10 @@
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_xbox_one_browser.png)
 
+## Xbox One (aplicativo)
+
+![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_xbox_app.png)
+
 ## My Game Collection (Track, Organize & Discover)
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_mgc_tuyware.png)
