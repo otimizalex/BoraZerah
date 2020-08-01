@@ -20,9 +20,21 @@
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_playstation.png)
 
+## Playstation 4 (versão navegador de internet)
+
+![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_playstation_browser.png)
+
+## Playstation 4 (aplicativo PS App)
+
+![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_playstation_app.png)
+
 ## Xbox One
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_xbox_one.png)
+
+## Xbox One (versão navegador de internet)
+
+![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_xbox_one_browser.png)
 
 ## My Game Collection (Track, Organize & Discover)
 
@@ -36,17 +48,6 @@
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_games_tracker.png)
 
-# Comparações descartadas
-
-## Xbox One (versão navegador de internet)
-
-![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_xbox_one_browser.png)
-
-## Playstation 4 (versão navegador de internet)
-
-![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_playstation_browser.png)
-
 ## My Video Game Tracker
 
 ![image](http://www.futgamers.com.br/nimdog/tcc/benchmark_my_vg_tracker.png)
-
