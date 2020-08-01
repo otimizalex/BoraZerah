@@ -17,7 +17,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Protótipos das telas](interfaceprototypes)
   - [Arquitetura](architecture)
   - [Telas do aplicativo](screens)
-  - [Validação da solução](validations)
+  - [Validação da solução](validation)
 
 ## Soluções encontradas no mercado
 
