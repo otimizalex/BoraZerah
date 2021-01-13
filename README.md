@@ -28,7 +28,7 @@ Aplicativo desenvolvido com o âmbito de proporcionar uma melhor gestão da bibl
   - [Xbox One](https://www.xbox.com/pt-BR/): sistema operacional do console da Microsoft e versão web da comunidade oficial do console.
   - [Games Tracker](https://play.google.com/store/apps/details?id=com.gamesTracking.gamesTracker&hl=en): Publicado na Play Store por Summer Kiflain.
   - [My Game Collection (Track, Organize & Discover)](https://play.google.com/store/apps/details?id=com.tuyware.mygamecollection&hl=en): Publicado na Play Store por Tuyware.
-  - [My Games: Colection & Tracker](https://apps.apple.com/br/app/my-games-collection-tracker/id1497005248): Publicado na App Store por Vlad Khodiachiy.
+  - [My Games: Collection & Tracker](https://apps.apple.com/br/app/my-games-collection-tracker/id1497005248): Publicado na App Store por Vlad Khodiachiy.
 
 ## Stack Tecnológico
 
